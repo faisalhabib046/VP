@@ -1,0 +1,6 @@
+c:\users\goshu amour\documents\visual studio 2013\Projects\test_vp_Assingmnt\test_vp_Assingmnt\bin\Debug\test_vp_Assingmnt.exe.config
+c:\users\goshu amour\documents\visual studio 2013\Projects\test_vp_Assingmnt\test_vp_Assingmnt\bin\Debug\test_vp_Assingmnt.exe
+c:\users\goshu amour\documents\visual studio 2013\Projects\test_vp_Assingmnt\test_vp_Assingmnt\bin\Debug\test_vp_Assingmnt.pdb
+c:\users\goshu amour\documents\visual studio 2013\Projects\test_vp_Assingmnt\test_vp_Assingmnt\obj\Debug\test_vp_Assingmnt.exe
+c:\users\goshu amour\documents\visual studio 2013\Projects\test_vp_Assingmnt\test_vp_Assingmnt\obj\Debug\test_vp_Assingmnt.pdb
+C:\Users\Goshu Amour\Documents\Visual Studio 2013\Projects\test_vp_Assingmnt\test_vp_Assingmnt\obj\Debug\test_vp_Assingmnt.csprojResolveAssemblyReference.cache

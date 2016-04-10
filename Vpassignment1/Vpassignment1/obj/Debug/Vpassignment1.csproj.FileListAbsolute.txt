@@ -4,3 +4,9 @@ c:\users\goshu amour\documents\visual studio 2013\Projects\Vpassignment1\Vpassig
 c:\users\goshu amour\documents\visual studio 2013\Projects\Vpassignment1\Vpassignment1\obj\Debug\Vpassignment1.exe
 c:\users\goshu amour\documents\visual studio 2013\Projects\Vpassignment1\Vpassignment1\obj\Debug\Vpassignment1.pdb
 c:\users\goshu amour\documents\visual studio 2013\Projects\Vpassignment1\Vpassignment1\obj\Debug\Vpassignment1.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
+=======
+H:\Vp\Vpassignment1\Vpassignment1\bin\Debug\Vpassignment1.exe.config
+H:\Vp\Vpassignment1\Vpassignment1\obj\Debug\Vpassignment1.exe
+H:\Vp\Vpassignment1\Vpassignment1\obj\Debug\Vpassignment1.pdb
+>>>>>>> f5b10074e19bff2adc23200dc487a50a87dc29df

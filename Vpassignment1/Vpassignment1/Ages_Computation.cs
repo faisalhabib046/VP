@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace Vpassignment1
 {
+<<<<<<< HEAD
+=======
+    //age computation class.
+>>>>>>> f5b10074e19bff2adc23200dc487a50a87dc29df
     class Ages_Computation
     {
         //input taking method.

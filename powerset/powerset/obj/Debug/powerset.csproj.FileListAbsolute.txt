@@ -1,0 +1,6 @@
+c:\users\goshu amour\documents\visual studio 2013\Projects\powerset\powerset\bin\Debug\powerset.exe.config
+c:\users\goshu amour\documents\visual studio 2013\Projects\powerset\powerset\bin\Debug\powerset.exe
+c:\users\goshu amour\documents\visual studio 2013\Projects\powerset\powerset\bin\Debug\powerset.pdb
+c:\users\goshu amour\documents\visual studio 2013\Projects\powerset\powerset\obj\Debug\powerset.csprojResolveAssemblyReference.cache
+c:\users\goshu amour\documents\visual studio 2013\Projects\powerset\powerset\obj\Debug\powerset.exe
+c:\users\goshu amour\documents\visual studio 2013\Projects\powerset\powerset\obj\Debug\powerset.pdb

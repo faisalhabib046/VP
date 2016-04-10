@@ -1,0 +1,6 @@
+c:\users\goshu amour\documents\visual studio 2013\Projects\Vpassignment1\Vpassignment1\bin\Debug\Vpassignment1.exe.config
+c:\users\goshu amour\documents\visual studio 2013\Projects\Vpassignment1\Vpassignment1\bin\Debug\Vpassignment1.exe
+c:\users\goshu amour\documents\visual studio 2013\Projects\Vpassignment1\Vpassignment1\bin\Debug\Vpassignment1.pdb
+c:\users\goshu amour\documents\visual studio 2013\Projects\Vpassignment1\Vpassignment1\obj\Debug\Vpassignment1.exe
+c:\users\goshu amour\documents\visual studio 2013\Projects\Vpassignment1\Vpassignment1\obj\Debug\Vpassignment1.pdb
+c:\users\goshu amour\documents\visual studio 2013\Projects\Vpassignment1\Vpassignment1\obj\Debug\Vpassignment1.csprojResolveAssemblyReference.cache
